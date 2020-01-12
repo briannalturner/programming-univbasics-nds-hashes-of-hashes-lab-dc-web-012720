@@ -31,6 +31,7 @@ PORTION_4 = {
 }
 
 def naming_system
+  
 name_sys = {
   label: 'Kingdom',
   sub_category: {
@@ -52,15 +53,5 @@ name_sys = {
     }
   }
 }
-  # Remember:
-  #  Kingdom
-  #  Phylum
-  #  Class
-  #  Order
-  #  Family
-  #  Genus
-  #  Species
-  # So, if we have the "Kingdom" node we should be able to "tunnel" into the
-  # HoH all the way to Species!
 
 end
